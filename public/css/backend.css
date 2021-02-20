@@ -1,0 +1,32 @@
+.article-images{
+    padding-top:30px;
+    overflow: hidden;
+}
+.image-container{
+    float:left;
+    margin-right: 15px;
+    position: relative;
+}
+.image-container img{
+    border-radius:1px;
+    border:1px solid #333;
+    cursor: pointer;
+}
+.image-close{
+    position: absolute;
+    top:5px;
+    right:5px;
+    z-index:2;
+    cursor: pointer;
+}
+.tag-term{
+    margin:5px;
+    padding:5px;
+    margin-top:10px;
+    background: #c1c1c1;
+    float: left;
+}
+.error{
+    color:red;
+    font-size: 13px;
+}
