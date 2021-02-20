@@ -8,7 +8,7 @@ PHP >= 7.2.5<br/>
 ### Run project
 Run Apache and mysql<br>
 Open cmd and change directory to "medium" project then run this command:<br><br>
-`php arisan serv `<br><br>
+`php artisan serv `<br><br>
 <br><br>
 ### *Notes:
 ###### custom js code is written in file public\js\functions.js<br>
