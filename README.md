@@ -17,7 +17,7 @@ Open cmd and change directory to "medium" project then run this command:<br><br>
 <br><br>
 ### Demo
 https://youtu.be/2wjFfR9V0Ts
-https://www.loom.com/share/50bbac494832421c964251326b81ca03
+
 <br><br>
 ## Framework used: LARAVEL
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
