@@ -11,7 +11,7 @@ Open cmd and change directory to "medium" project then run this command:<br><br>
 `php arisan serv `<br><br>
 <br><br>
 ### *Notes:
-###### all js code in ecommerce project is written in file \ecommerce\public\js\functions.js<br>
+###### all js code is written in file public\js\functions.js<br>
 ###### Framework used is an mvc php framework<br>
 
 <br><br>
