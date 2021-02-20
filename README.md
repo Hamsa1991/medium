@@ -16,7 +16,7 @@ Open cmd and change directory to "medium" project then run this command:<br><br>
 
 <br><br>
 ### Demo
-https://youtu.be/2wjFfR9V0Ts
+[![Audi R8](https://img.youtube.com/vi/2wjFfR9V0Ts/0.jpg)](https://www.youtube.com/watch?v=2wjFfR9V0Ts&feature=youtu.be "Audi R8")
 
 <br><br>
 ## Framework used: LARAVEL
