@@ -3,9 +3,9 @@
 ### Server Requirements:
 PHP >= 7.2.5<br/>
 ### Setup project
-create database "medium" and import "medium.sql" file into it<br>
-Go to ".env" file in and update only your user name and password (DB_USERNAME, DB_PASSWORD values)<br>
-### Run projects
+1. create database "medium" and import "medium.sql" file<br>
+2. Go to ".env" file in and update only your user name and password (DB_USERNAME, DB_PASSWORD values)<br>
+### Run project
 Run Apache and mysql<br>
 Open cmd and change directory to "medium" project then run this command:<br><br>
 `php arisan serv `<br><br>
@@ -14,12 +14,11 @@ Open cmd and change directory to "medium" project then run this command:<br><br>
 ###### all js code in ecommerce project is written in file \ecommerce\public\js\functions.js<br>
 ###### Framework used is an mvc php framework<br>
 
-
 <br><br>
 ### Demo
 https://www.loom.com/share/50bbac494832421c964251326b81ca03
-<br><br><br>
-## Framework used:
+<br><br>
+## Framework used: LARAVEL
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -28,6 +27,7 @@ https://www.loom.com/share/50bbac494832421c964251326b81ca03
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
 
 ## About Laravel
 
