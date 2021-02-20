@@ -2,8 +2,7 @@
 ## Installation
 ### Server Requirements:
 PHP >= 7.2.5<br/>
-for more information please go to : https://laravel.com/docs/7.x <br>
-### Setup projects
+### Setup project
 create database "medium" and import "medium.sql" file into it<br>
 Go to ".env" file in and update only your user name and password (DB_USERNAME, DB_PASSWORD values)<br>
 ### Run projects
