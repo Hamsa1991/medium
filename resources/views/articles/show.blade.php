@@ -34,11 +34,15 @@
                     {!! $article->description !!}
                 </div>
                 {{--show other articles--}}
-                {{--@if($more_articles)--}}
-                {{--@foreach($more_articles as $article)--}}
-                {{--@include("articles.article_body")--}}
-                {{--@endforeach--}}
-                {{--@endif--}}
+                <div class="tags-container">
+                    @if($article->tags)
+                        @foreach($article->tags as $tag)
+                            <div class="tag">
+                                <a href="tag/articles/{{$tag->id}}">{{$tag->name}}</a>
+                            </div>
+                        @endforeach
+                    @endif
+                </div>
             </div>
         </div>
     </div>
