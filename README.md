@@ -19,7 +19,6 @@ Open cmd and change directory to "medium" project then run this command:<br><br>
 <br><br>
 ### Demo
 https://www.loom.com/share/50bbac494832421c964251326b81ca03
-[![Audi R8](http://img.youtube.com/vi/d2GNP9c56kQ/0.jpg)](https://youtu.be/d2GNP9c56kQ "Audi R8") 
 <br><br><br>
 ## Framework used:
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
